@@ -27,3 +27,5 @@ python setup.py install
 python
 
 import slausolve
+
+slausolve.solve()
