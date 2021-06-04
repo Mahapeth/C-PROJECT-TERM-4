@@ -35,7 +35,7 @@ slausolve.solve(args)
 
 Пример использования модуля:
 <p align="left">
-    <img src="https://github.com/Mahapeth/C-PROJECT-TERM-4/blob/main/input.png" width="300" alt="Input an example">
+    <img src="https://github.com/Mahapeth/C-PROJECT-TERM-4/blob/main/input.png" width="800" alt="Input an example">
 </p>
 
 slausolve.solve(1,0.17,-0.25,0.54,0.47,1,0.67,-0.32,-0.11,0.35,1,-0.74,0.55,0.43,0.36,1,0.3,0.5,0.7,0.9)
