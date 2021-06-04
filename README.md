@@ -21,7 +21,9 @@
 <h2> <i> Как использовать модуль? </i> </h2>
 
 python setup.py build
+
 python setup.py install
+
 python
 
-import 
+import slausolve
